@@ -1,6 +1,6 @@
-## Sorting-Visualizer
+# Sorting-Visualizer
 
-# https://sorting-visualizer-kishor.netlify.app/
+ https://sorting-visualizer-kishor.netlify.app/
 
 A Sorting Algorithms main purpose is to reposition a given array or list of elements in ascending or descending order. Now taking about the algorithms itself we are using sorting algorithms in this visualizer namely Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Merge Sort.
 
